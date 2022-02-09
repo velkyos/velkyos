@@ -17,9 +17,9 @@ Agility is calculated with this formula : 100 - {Sword's cost} - {Shield's cost}
 
 You have more chance to dodge an attack if your agility is grater than your opponent.
 
- <img src="images/IA_FIGHT_SCREEN_V1.png"/>
+ <img src="https://github.com/velkyos/velkyos/blob/master/images/IA_FIGHT_SCREEN_V1.PNG"/>
 
- <img src="images/IA_GENERATION_V1.png"/>
+ <img src="https://github.com/velkyos/velkyos/blob/master/images/IA_GENERATION_V1.PNG"/>
 
  The project stop here because at this time, because of my motivation and ignorance in AI.
 
@@ -29,7 +29,7 @@ During lockdown, i took time after school to learn more about AI in general. I l
 
 So I start working again on the project but this time in C# with the help of the Unity Engine.
 
- <img src="images/IA_FIGHT_SCREEN.png"/>
+<img src="https://github.com/velkyos/velkyos/blob/master/images/IA_FIGHT_SCREEN.PNG"/>
 
  I start the project from scratch based on new rules.
 
