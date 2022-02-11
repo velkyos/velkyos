@@ -21,7 +21,7 @@ You have more chance to dodge an attack if your agility is grater than your oppo
 
  <img src="https://github.com/velkyos/velkyos/blob/master/images/IA_GENERATION_V1.PNG"/>
 
- The project stop here because at this time, because of my motivation and ignorance in AI.
+ The project stop here due to my lack of motivation and my poor knowledge of AI.
 
 ## 2021
 
